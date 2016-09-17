@@ -1,6 +1,6 @@
 ## Programming Problem Solutions
 
-This repository contains solutions of different programming problems
+This repository contains solution of different programming problems
 
 ### UVA Online Judge
 
